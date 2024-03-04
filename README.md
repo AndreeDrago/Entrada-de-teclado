@@ -1,2 +1,2 @@
-# Texto-aleatorio
+# Entrada-de-teclado
 Día 10:
